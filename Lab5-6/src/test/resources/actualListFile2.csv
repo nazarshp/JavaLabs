@@ -1,0 +1,9 @@
+Autos:
+name; model; category; standart; engine; yearOfManufacture; price; engineCapacity
+Mercedec; amg; auto; EURO_5; DIESEL; 2020; 21000; 2,000000
+Minivans:
+name; model; category; standart; engine; yearOfManufacture; price; engineCapacity
+Mercedec; Vito; minivan; EURO_6; DIESEL; 2009; 25000; 2,000000
+Trucks:
+name; model; category; standart; engine; yearOfManufacture; price; engineCapacity
+Scania; s400; truck; EURO_5; DIESEL; 2015; 50000; 6,400000

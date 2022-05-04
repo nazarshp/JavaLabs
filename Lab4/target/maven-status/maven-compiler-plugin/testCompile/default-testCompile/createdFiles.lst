@@ -1,0 +1,9 @@
+ua\lviv\iot\Labs\Main.class
+ua\lviv\iot\Labs\model\Engine.class
+ua\lviv\iot\Labs\model\Car.class
+ua\lviv\iot\Labs\model\Standart.class
+ua\lviv\iot\Labs\model\Minivan.class
+ua\lviv\iot\Labs\model\Bus.class
+ua\lviv\iot\Labs\model\Truck.class
+ua\lviv\iot\Labs\manager\Manager.class
+ua\lviv\iot\Labs\model\Auto.class
